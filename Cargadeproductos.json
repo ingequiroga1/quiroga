@@ -1,0 +1,1091 @@
+[
+  {
+    "marca": "BE Dirt",
+    "clave": "BD1",
+    "articulo": 1,
+    "descripcion": "Bike cleaner 1lt",
+    "precio": 156,
+    "linea": "",
+    "existencia": 9
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD2",
+    "articulo": 2,
+    "descripcion": "Indoor wash 1lt",
+    "precio": 199,
+    "linea": "",
+    "existencia": 12
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD3",
+    "articulo": 3,
+    "descripcion": "Foam degreaser 1lt ",
+    "precio": 199,
+    "linea": "",
+    "existencia": 8
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD4",
+    "articulo": 4,
+    "descripcion": "Foam degreaser 500ml",
+    "precio": 125,
+    "linea": "",
+    "existencia": 8
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD5",
+    "articulo": 5,
+    "descripcion": "Mint grenade cleaner 240ml",
+    "precio": 149,
+    "linea": "",
+    "existencia": 10
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD6",
+    "articulo": 6,
+    "descripcion": "Dirt lube dry 60ml",
+    "precio": 89,
+    "linea": "",
+    "existencia": 11
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD7",
+    "articulo": 7,
+    "descripcion": "Dirt Lube All weather 60ml ",
+    "precio": 105,
+    "linea": "",
+    "existencia": 11
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD8",
+    "articulo": 8,
+    "descripcion": "Ceramic lube 60ml",
+    "precio": 159,
+    "linea": "",
+    "existencia": 11
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD9",
+    "articulo": 9,
+    "descripcion": "Ceramic lube 120ml",
+    "precio": 219,
+    "linea": "",
+    "existencia": 10
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD10",
+    "articulo": 10,
+    "descripcion": "Fork butter lube 120ml ",
+    "precio": 219,
+    "linea": "",
+    "existencia": 3
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD11",
+    "articulo": 11,
+    "descripcion": "Cepillo Soft",
+    "precio": 145,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD12",
+    "articulo": 12,
+    "descripcion": "Cepillo Hard",
+    "precio": 119,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "BE Dirt",
+    "clave": "BD13",
+    "articulo": 13,
+    "descripcion": "Flex Brush",
+    "precio": 159,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6377-4000",
+    "articulo": 14,
+    "descripcion": "Happy Trucker Hat, red",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6387-0000",
+    "articulo": 15,
+    "descripcion": "Gone Rippin Hat, Black",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6383-0000",
+    "articulo": 16,
+    "descripcion": "Founder Hat Black",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6396-4000",
+    "articulo": 17,
+    "descripcion": "Members Only Hat, Red",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6382-6000",
+    "articulo": 18,
+    "descripcion": "Waxed Hat, Black Beige ",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6396-0000",
+    "articulo": 19,
+    "descripcion": "Members Only Hat, Black ",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6365-3300",
+    "articulo": 20,
+    "descripcion": "Soul Hat, Indigo",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6377-0000",
+    "articulo": 21,
+    "descripcion": "Happy trucker hat,  Black",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6379-0000",
+    "articulo": 22,
+    "descripcion": "Ruffio Hat Black ",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6410-9000",
+    "articulo": 23,
+    "descripcion": "Coalition Hat, Olive",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "9315-0011",
+    "articulo": 24,
+    "descripcion": "Logo slide Sandals Black-11",
+    "precio": 990,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "9316-0010",
+    "articulo": 25,
+    "descripcion": "Lay Up Slide Sandals Black-10",
+    "precio": 990,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6522-0008",
+    "articulo": 26,
+    "descripcion": "Legacy Knee Brace sock Black SM",
+    "precio": 599,
+    "linea": "",
+    "existencia": 3
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6522-0010",
+    "articulo": 27,
+    "descripcion": "Legacy Knee Brace Sock Black Xl",
+    "precio": 599,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "5405-0010",
+    "articulo": 28,
+    "descripcion": "Trail Liner Black L",
+    "precio": 1200,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "5405-0009",
+    "articulo": 29,
+    "descripcion": "Trail Liner Black M",
+    "precio": 1200,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "5854-0009",
+    "articulo": 30,
+    "descripcion": "Burnfree Classic Ls Jersey Black",
+    "precio": 1890,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1179-0009",
+    "articulo": 31,
+    "descripcion": "Members Only Tee Black",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1146-0010",
+    "articulo": 32,
+    "descripcion": "Smokers ss Tee Black L",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1518-6009",
+    "articulo": 33,
+    "descripcion": "Elude Tee natural M",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1457-3009",
+    "articulo": 34,
+    "descripcion": "Tool Free tee M",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1458-0009",
+    "articulo": 35,
+    "descripcion": "Tour 1969 tee washed black",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1144-0010",
+    "articulo": 36,
+    "descripcion": "Palm SS tee Black L",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1550-0010",
+    "articulo": 37,
+    "descripcion": "805-tuned Out tee L",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1655-0010",
+    "articulo": 38,
+    "descripcion": "805-swagon L",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1454-0010",
+    "articulo": 39,
+    "descripcion": "Aggro tee L",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "1153-0009",
+    "articulo": 40,
+    "descripcion": "Macabre Tee M",
+    "precio": 850,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6538-9910",
+    "articulo": 41,
+    "descripcion": "Eclipse 3Pack L/Xl",
+    "precio": 720,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6532-0010",
+    "articulo": 42,
+    "descripcion": "Clash Crew Sock blck Xl",
+    "precio": 520,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6532-7010",
+    "articulo": 43,
+    "descripcion": "Clash Crew Sock blck Xl",
+    "precio": 520,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6506-9010",
+    "articulo": 44,
+    "descripcion": "Glory Sock olive XL",
+    "precio": 520,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6501-9010",
+    "articulo": 45,
+    "descripcion": "Boon Sock XL",
+    "precio": 350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6505-7010",
+    "articulo": 46,
+    "descripcion": "Voltage Sock Xl",
+    "precio": 350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6513-1010",
+    "articulo": 47,
+    "descripcion": "805, proper sock Xl",
+    "precio": 350,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6501-0610",
+    "articulo": 48,
+    "descripcion": "Bone Sock xl",
+    "precio": 350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6550-0010",
+    "articulo": 49,
+    "descripcion": "Hooper Knee Pad L",
+    "precio": 2990,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6550-0009",
+    "articulo": 50,
+    "descripcion": "Hooper Knee Pad M",
+    "precio": 2990,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6551-0010",
+    "articulo": 51,
+    "descripcion": "Youth Hooper Knee Pad L/Xl",
+    "precio": 2100,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6551-0008",
+    "articulo": 52,
+    "descripcion": "Youth Hopoper Knee Pas S/M",
+    "precio": 2100,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Fasthouse",
+    "clave": "6385-6000",
+    "articulo": 53,
+    "descripcion": "Gas & Beer Straw Hat",
+    "precio": 970,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "238786043",
+    "articulo": 54,
+    "descripcion": "Skyline Short Shell 32",
+    "precio": 2350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "238786053",
+    "articulo": 55,
+    "descripcion": "Skyline Short Shell Iron 32",
+    "precio": 2350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "238786044",
+    "articulo": 56,
+    "descripcion": "Skyline Short Shell Black 32",
+    "precio": 2350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "90130-001-12",
+    "articulo": 57,
+    "descripcion": "Teratec Elbow Guards L",
+    "precio": 1200,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "H36NWG",
+    "articulo": 58,
+    "descripcion": "MXV2MXLOCK-ON, No waffle",
+    "precio": 590,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "Nucleo",
+    "clave": "H36HWR",
+    "articulo": 59,
+    "descripcion": "MXV2MXLOCK-ON GRAY",
+    "precio": 590,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "40007-00003",
+    "articulo": 60,
+    "descripcion": "R-Core Shorts Black 36",
+    "precio": 1350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "255417004",
+    "articulo": 61,
+    "descripcion": "Skyline Pant Brushed Camo 34",
+    "precio": 1918,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "255528013",
+    "articulo": 62,
+    "descripcion": "Skyline Pant Slate Blue 32",
+    "precio": 1918,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "341503003",
+    "articulo": 63,
+    "descripcion": "Skyline Ls Jersey Black M",
+    "precio": 1047,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "341503005",
+    "articulo": 64,
+    "descripcion": "Skyline Ls Jersey Black Xl ",
+    "precio": 1047,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "207337003",
+    "articulo": 65,
+    "descripcion": "Gp Pant Brazen Camo Gray 32",
+    "precio": 2010,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "307337003",
+    "articulo": 66,
+    "descripcion": "Go JErsey Brazen Camo Gray MD",
+    "precio": 594,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "307337004",
+    "articulo": 67,
+    "descripcion": "Go JErsey Brazen Camo Gray G",
+    "precio": 594,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "415785083",
+    "articulo": 68,
+    "descripcion": "Gambit Glove Slate Blue M ",
+    "precio": 750,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "415785084",
+    "articulo": 69,
+    "descripcion": "Gambit Glove Slate Blue L",
+    "precio": 750,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "404417013",
+    "articulo": 70,
+    "descripcion": "Air Glove Brushed Camo Black/ Gray M ",
+    "precio": 594,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "404417014",
+    "articulo": 71,
+    "descripcion": "Air Glove Brushed Camo Black/ Gray L",
+    "precio": 594,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "404417015",
+    "articulo": 72,
+    "descripcion": "Air Glove Brushed Camo Black/ Gray xl",
+    "precio": 594,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "591003004",
+    "articulo": 73,
+    "descripcion": "Raid Knee Black L",
+    "precio": 2040,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "404785012",
+    "articulo": 74,
+    "descripcion": "Air Glove Red S",
+    "precio": 477,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "404785014",
+    "articulo": 75,
+    "descripcion": "Air Glove Red L",
+    "precio": 477,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "238786054",
+    "articulo": 76,
+    "descripcion": "Skyline Short Shell Iron 34 ",
+    "precio": 1435,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "132257013",
+    "articulo": 77,
+    "descripcion": "A2 Mips Helmet Sliver Silver MD/LG ",
+    "precio": 2580,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "440831003",
+    "articulo": 78,
+    "descripcion": "Air Glove Pop Wheelies Black M",
+    "precio": 540,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "440831004",
+    "articulo": 79,
+    "descripcion": "Air Glove Pop Wheelies Black L",
+    "precio": 540,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "1010001PA03A001101",
+    "articulo": 80,
+    "descripcion": "HT Nylon reinforced pedal",
+    "precio": 850,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "MDH",
+    "clave": "TR1UNA-124",
+    "articulo": 81,
+    "descripcion": "Tire Plasma ",
+    "precio": 150,
+    "linea": "",
+    "existencia": 30
+  },
+  {
+    "marca": "MDH",
+    "clave": "229931034",
+    "articulo": 82,
+    "descripcion": "Sprint Pant Mono Navy 34",
+    "precio": 2136,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "H36HWH",
+    "articulo": 83,
+    "descripcion": "Grips V2 Grafito ",
+    "precio": 580,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "H36E2DU",
+    "articulo": 84,
+    "descripcion": "EMIG 2.0 v2 LOCK-ON NAVY/CIAN ",
+    "precio": 630,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "H36EPGO",
+    "articulo": 85,
+    "descripcion": "EMIG 2.0 v2 LOCK-ON Gray/ORANGE ",
+    "precio": 630,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "H36E2OH",
+    "articulo": 86,
+    "descripcion": "EMIG 2.0 v2 LOCK-ON ORANGE/GRAPHITE ",
+    "precio": 630,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "H36E2BW",
+    "articulo": 87,
+    "descripcion": "EMIG 2.0 v2 LOCK-ON BLACK/WHITE",
+    "precio": 630,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "70004-00002",
+    "articulo": 88,
+    "descripcion": "TERATEC PLUS Elbow guard M",
+    "precio": 879,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "70004-00003",
+    "articulo": 89,
+    "descripcion": "TERATEC PLUS Elbow guard L",
+    "precio": 879,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "323329012",
+    "articulo": 90,
+    "descripcion": "Sprint Jersey Ritcher Navy S",
+    "precio": 1519,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "204490054",
+    "articulo": 91,
+    "descripcion": "Gp Air Mono Navy 34",
+    "precio": 2113,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "61023-802-01",
+    "articulo": 92,
+    "descripcion": "SPEEDTRAP soft tact ",
+    "precio": 2700,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "24014-375-18",
+    "articulo": 93,
+    "descripcion": "REV Knee Brace Moto Sock",
+    "precio": 720,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "50221-101-05",
+    "articulo": 94,
+    "descripcion": "ACCURI 2 Goggle Orange ",
+    "precio": 660,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "855786004",
+    "articulo": 95,
+    "descripcion": "Mtb pro SHort LIner Black 34",
+    "precio": 951,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "855786003",
+    "articulo": 96,
+    "descripcion": "Mtb pro SHort LIner Black 32",
+    "precio": 951,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "AI11A13840E0CL",
+    "articulo": 97,
+    "descripcion": "Helmet Trr S Color Black MAtt L",
+    "precio": 3000,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "50028-00012",
+    "articulo": 98,
+    "descripcion": "Strata 2 Goggle Upsol",
+    "precio": 555,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "437786043",
+    "articulo": 99,
+    "descripcion": "Flowline Glove Black M",
+    "precio": 399,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "437786044",
+    "articulo": 100,
+    "descripcion": "Flowline Glove Black L",
+    "precio": 399,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "70005-00002",
+    "articulo": 101,
+    "descripcion": "TERATEC PLUS Knee Guards Black M",
+    "precio": 1020,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "337931004",
+    "articulo": 102,
+    "descripcion": "Skyline Air Ss Jersey Mono Black L",
+    "precio": 1020,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "277931003",
+    "articulo": 103,
+    "descripcion": "Gp Pro Pant Mono Black 32 ",
+    "precio": 2478,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "MDH",
+    "clave": "40007-00001",
+    "articulo": 104,
+    "descripcion": "R-CORE Shorts Black 30",
+    "precio": 1350,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "IB00140600",
+    "articulo": 105,
+    "descripcion": "Maxxis WWT 29 x 1.75 / 2.40 Presta 48 mm",
+    "precio": 175,
+    "linea": "",
+    "existencia": 8
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00292000",
+    "articulo": 106,
+    "descripcion": "MAXXIS ARDENT 29 X 2.25 ALAMBRE",
+    "precio": 699,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00328300",
+    "articulo": 107,
+    "descripcion": "MAXXIS REKON 29 X 2.25 ALAMBRE",
+    "precio": 699,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB85975000",
+    "articulo": 108,
+    "descripcion": "MAXXIS Minion DHF 27.5 X 2.50 EXO TR",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 4
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00017700",
+    "articulo": 109,
+    "descripcion": "MAXXIS Rekon 29 x 2.40 Exo TR",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00163100",
+    "articulo": 110,
+    "descripcion": "MAXXIS ASSEGAI EXO TR 29X2.50",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB96800000",
+    "articulo": 111,
+    "descripcion": "MAXXIS Minion DHF 29 x 2.50 EXO TR WT",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB96769000",
+    "articulo": 112,
+    "descripcion": "MAXXIS High Roller II 29 x 2.30 EXO TR",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB96797000",
+    "articulo": 113,
+    "descripcion": "MAXXIS Minion DHR II EXO TR WT 29 x 2.40",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB85962000",
+    "articulo": 114,
+    "descripcion": "MAXXIS Minion DHR II 27.5 X 2.40 EXO TR",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 4
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00139700",
+    "articulo": 115,
+    "descripcion": "MAXXIS REKON RACE EXO TR 29 X 2.35",
+    "precio": 1299,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "TB00338300",
+    "articulo": 116,
+    "descripcion": "MAXXIS REKON RACE 29 X 2.25 ALAMBRE",
+    "precio": 699,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "MMHF-040K",
+    "articulo": 117,
+    "descripcion": "Líquido Sellador Oko Magic Milk Hi-Fiber - Volumen : 1 lt",
+    "precio": 294,
+    "linea": "",
+    "existencia": 1
+  },
+  {
+    "marca": "tribu (maxxis)",
+    "clave": "MMHF-080K",
+    "articulo": 118,
+    "descripcion": "Líquido Sellador Oko Magic Milk Hi-Fiber - Volumen : 250 ml",
+    "precio": 320,
+    "linea": "",
+    "existencia": 6
+  },
+  {
+    "marca": "Terra mousse",
+    "clave": "TM1",
+    "articulo": 119,
+    "descripcion": "140/80-18",
+    "precio": 2350,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "Terra mousse",
+    "clave": "TM2",
+    "articulo": 120,
+    "descripcion": "120/90-18",
+    "precio": 2350,
+    "linea": "",
+    "existencia": 2
+  },
+  {
+    "marca": "Terra mousse",
+    "clave": "TM3",
+    "articulo": 121,
+    "descripcion": "90/100-21",
+    "precio": 2100,
+    "linea": "",
+    "existencia": 2
+  }
+]
